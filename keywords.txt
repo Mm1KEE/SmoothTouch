@@ -1,0 +1,8 @@
+SmoothTouch KEYWORD1
+
+setResolution KEYWORD2
+setMouseMaxSample KEYWORD2
+setDebugInfo KEYWORD2
+update KEYWORD2
+isTouched KEYWORD2
+rawDataFilter KEYWORD2
